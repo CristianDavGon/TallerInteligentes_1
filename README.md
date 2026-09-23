@@ -4,7 +4,7 @@ Este repositorio contiene la implementación y el análisis de diversos algoritm
 
 ## Integrantes
 * **Cristian David Gonzalez**
-* **Sebastian Garcia**
+* **Sebastian Garcia Hincapie**
 
 ---
 
